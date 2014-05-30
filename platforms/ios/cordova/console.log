@@ -63,3 +63,17 @@ Terminating in response to SpringBoard's termination.
 2014-05-30 17:10:34.522 MapMade.app[33427:70b] [CDVTimer][TotalPluginStartup] 1.927018ms
 2014-05-30 17:10:34.659 MapMade.app[33427:70b] Resetting plugins due to page load.
 2014-05-30 17:10:35.031 MapMade.app[33427:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html#/tab/dash
+2014-05-30 17:15:57.886 MapMade.app[34587:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-30 17:15:57.898 MapMade.app[34587:70b] Unlimited access to network resources
+2014-05-30 17:15:57.923 MapMade.app[34587:70b] [CDVTimer][keyboard] 0.101030ms
+2014-05-30 17:15:57.924 MapMade.app[34587:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-30 17:15:57.924 MapMade.app[34587:70b] [CDVTimer][statusbar] 0.557959ms
+2014-05-30 17:15:57.925 MapMade.app[34587:70b] [CDVTimer][TotalPluginStartup] 1.892030ms
+2014-05-30 17:15:58.071 MapMade.app[34587:70b] Resetting plugins due to page load.
+2014-05-30 17:15:58.458 MapMade.app[34587:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html#/tab/dash
+2014-05-30 17:16:02.255 MapMade.app[34587:70b] Resetting plugins due to page load.
+2014-05-30 17:16:02.289 MapMade.app[34587:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html?posttext=#/tab/cam
+2014-05-30 17:16:08.219 MapMade.app[34587:70b] Resetting plugins due to page load.
+2014-05-30 17:16:08.258 MapMade.app[34587:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html?posttext=jgkjhkj#/tab/cam
+2014-05-30 17:16:08.580 MapMade.app[34587:70b] Resetting plugins due to page load.
+2014-05-30 17:16:08.619 MapMade.app[34587:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html?posttext=#/tab/cam
