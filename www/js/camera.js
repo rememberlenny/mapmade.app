@@ -1,17 +1,18 @@
 var CameraApp = function(){
+  var self = this;
   this.pictureSource;   // picture source
   this.destinationType; // sets the format of returned value
 
   // Wait for device API libraries to load
-  document.addEventListener("deviceready",onDeviceReady,false);
+  document.addEventListener("deviceready", self.onDeviceReady,false);
 };
 
 
 // device APIs are available
 //
 CameraApp.prototype.onDeviceReady = function () {
-    pictureSource=navigator.camera.PictureSourceType;
-    destinationType=navigator.camera.DestinationType;
+    this.pictureSource    = navigator.camera.PictureSourceType;
+    this.destinationType  = navigator.camera.DestinationType;
 }
 
 // Called when a photo is successfully retrieved
@@ -82,5 +83,7 @@ CameraApp.prototype.getPhoto = function(source) {
 // Called if something bad happens.
 //
 CameraApp.prototype.onFail = function(message) {
-  alert('Failed because: ' + message);
+  setTimeout(function(){
+    alert('Failed because: ' + message);
+  }, 0);
 }
