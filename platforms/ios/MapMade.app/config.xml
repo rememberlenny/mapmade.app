@@ -28,12 +28,15 @@
     <feature name="Device">
         <param name="ios-package" value="CDVDevice" />
     </feature>
-    <name>HelloCordova</name>
+    <feature name="Camera">
+        <param name="ios-package" value="CDVCamera" />
+    </feature>
+    <name>MapMade.app</name>
     <description>
-        An Ionic Framework and Cordova project.
+        iOS application for A Triangle
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    <author email="lenny@atriangle.com" href="http://atriangle.com/">
+      Leonard K. Bogdonoff
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -41,11 +44,9 @@
     <preference name="webviewbounce" value="false" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
+    <plugin name="Camera" value="CDVCamera" />
     <preference name="BackupWebStorage" value="none" />
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
-    </feature>
-    <feature name="Camera">
-        <param name="ios-package" value="CDVCamera" />
     </feature>
 </widget>
