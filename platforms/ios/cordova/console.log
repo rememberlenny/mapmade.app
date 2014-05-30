@@ -55,3 +55,11 @@ Terminating in response to SpringBoard's termination.
 2014-05-30 17:07:27.825 MapMade.app[30790:70b] [CDVTimer][TotalPluginStartup] 1.838982ms
 2014-05-30 17:07:27.976 MapMade.app[30790:70b] Resetting plugins due to page load.
 2014-05-30 17:07:28.367 MapMade.app[30790:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html#/tab/dash
+2014-05-30 17:10:34.447 MapMade.app[33427:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-30 17:10:34.462 MapMade.app[33427:70b] Unlimited access to network resources
+2014-05-30 17:10:34.520 MapMade.app[33427:70b] [CDVTimer][keyboard] 0.101984ms
+2014-05-30 17:10:34.520 MapMade.app[33427:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-30 17:10:34.521 MapMade.app[33427:70b] [CDVTimer][statusbar] 0.569999ms
+2014-05-30 17:10:34.522 MapMade.app[33427:70b] [CDVTimer][TotalPluginStartup] 1.927018ms
+2014-05-30 17:10:34.659 MapMade.app[33427:70b] Resetting plugins due to page load.
+2014-05-30 17:10:35.031 MapMade.app[33427:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html#/tab/dash
