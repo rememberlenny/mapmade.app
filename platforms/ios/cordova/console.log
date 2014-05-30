@@ -21,3 +21,37 @@
 2014-05-30 16:35:02.128 MapMade.app[22660:70b] THREAD WARNING: ['Camera'] took '1451.594727' ms. Plugin should use a background thread.
 2014-05-30 16:35:02.898 MapMade.app[22660:70b] THREAD WARNING: ['Camera'] took '45.441895' ms. Plugin should use a background thread.
 2014-05-30 16:35:07.592 MapMade.app[22660:70b] THREAD WARNING: ['Camera'] took '29.549072' ms. Plugin should use a background thread.
+2014-05-30 17:04:45.514 MapMade.app[29181:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-30 17:04:45.524 MapMade.app[29181:70b] Unlimited access to network resources
+2014-05-30 17:04:45.550 MapMade.app[29181:70b] [CDVTimer][keyboard] 0.069022ms
+2014-05-30 17:04:45.550 MapMade.app[29181:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-30 17:04:45.551 MapMade.app[29181:70b] [CDVTimer][statusbar] 0.450015ms
+2014-05-30 17:04:45.551 MapMade.app[29181:70b] [CDVTimer][TotalPluginStartup] 1.848042ms
+2014-05-30 17:04:45.619 MapMade.app[29181:70b] Resetting plugins due to page load.
+2014-05-30 17:04:45.798 MapMade.app[29181:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html#/tab/dash
+Terminating in response to SpringBoard's termination.
+2014-05-30 17:05:31.598 MapMade.app[29728:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-30 17:05:31.614 MapMade.app[29728:70b] Unlimited access to network resources
+2014-05-30 17:05:31.706 MapMade.app[29728:70b] [CDVTimer][keyboard] 0.106990ms
+2014-05-30 17:05:31.707 MapMade.app[29728:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-30 17:05:31.710 MapMade.app[29728:70b] [CDVTimer][statusbar] 3.010988ms
+2014-05-30 17:05:31.713 MapMade.app[29728:70b] [CDVTimer][TotalPluginStartup] 7.990956ms
+2014-05-30 17:05:31.883 MapMade.app[29728:70b] Resetting plugins due to page load.
+2014-05-30 17:05:32.412 MapMade.app[29728:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html#/tab/dash
+2014-05-30 17:07:03.249 MapMade.app[30419:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-30 17:07:03.257 MapMade.app[30419:70b] Unlimited access to network resources
+2014-05-30 17:07:03.275 MapMade.app[30419:70b] [CDVTimer][keyboard] 0.061035ms
+2014-05-30 17:07:03.276 MapMade.app[30419:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-30 17:07:03.276 MapMade.app[30419:70b] [CDVTimer][statusbar] 0.440001ms
+2014-05-30 17:07:03.276 MapMade.app[30419:70b] [CDVTimer][TotalPluginStartup] 1.589000ms
+2014-05-30 17:07:03.319 MapMade.app[30419:70b] Resetting plugins due to page load.
+2014-05-30 17:07:03.431 MapMade.app[30419:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html#/tab/dash
+Terminating in response to SpringBoard's termination.
+2014-05-30 17:07:27.787 MapMade.app[30790:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-30 17:07:27.799 MapMade.app[30790:70b] Unlimited access to network resources
+2014-05-30 17:07:27.823 MapMade.app[30790:70b] [CDVTimer][keyboard] 0.101984ms
+2014-05-30 17:07:27.824 MapMade.app[30790:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-30 17:07:27.825 MapMade.app[30790:70b] [CDVTimer][statusbar] 0.543952ms
+2014-05-30 17:07:27.825 MapMade.app[30790:70b] [CDVTimer][TotalPluginStartup] 1.838982ms
+2014-05-30 17:07:27.976 MapMade.app[30790:70b] Resetting plugins due to page load.
+2014-05-30 17:07:28.367 MapMade.app[30790:70b] Finished load of: file:///Users/lkbgift/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7785B8B8-58F1-4C08-B891-FC64B41E1948/MapMade.app.app/www/index.html#/tab/dash

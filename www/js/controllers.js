@@ -12,5 +12,7 @@ angular.module('starter.controllers', [])
 })
 
 .controller('AccountCtrl', function($scope) {
+  var cameraApp = new CameraApp();
+  cameraApp.capturePhoto();
 });
 
